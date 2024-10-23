@@ -116,33 +116,62 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 Array Value of x
+
+
 ![Screenshot 2024-10-23 195735](https://github.com/user-attachments/assets/29b46ca5-275a-424a-b210-6433f81e25df)
 
+
 Array Value of y
+
+
 ![Screenshot 2024-10-23 195803](https://github.com/user-attachments/assets/eb8f1eac-bd8f-4e3e-99e1-51073c1a089f)
 
+
 Exam 1 - score graph
+
+
 ![Screenshot 2024-10-23 195828](https://github.com/user-attachments/assets/43be5007-f8f7-459b-8c2b-382bb099a6c2)
 
+
 Sigmoid function graph
+
+
 ![Screenshot 2024-10-23 195847](https://github.com/user-attachments/assets/565c8a4d-df5c-4852-a3ad-e2afa6c07ae3)
 
+
 X_train_grad value
+
+
 ![Screenshot 2024-10-23 195904](https://github.com/user-attachments/assets/613bc367-204b-4f86-bc1a-023020c85cee)
 
+
 Y_train_grad value
+
+
 ![Screenshot 2024-10-23 195923](https://github.com/user-attachments/assets/d8756604-7d64-4906-8ba5-88800e6e9a96)
 
+
 Print res.x
+
+
 ![Screenshot 2024-10-23 195951](https://github.com/user-attachments/assets/ac4e799b-60bd-44b7-8060-b974ac4450cb)
 
+
 Decision boundary - graph for exam score
+
+
 ![Screenshot 2024-10-23 200018](https://github.com/user-attachments/assets/9cf71413-24bf-4771-837c-df276c9cfe23)
 
+
 Proability value
+
+
 ![Screenshot 2024-10-23 200035](https://github.com/user-attachments/assets/037f53a6-5dad-4084-9894-52758efcaf07)
 
+
 Prediction value of mean
+
+
 ![Screenshot 2024-10-23 200053](https://github.com/user-attachments/assets/8bb313c9-ff83-4edb-a5a7-5da96a51fb45)
 
 ## Result:
